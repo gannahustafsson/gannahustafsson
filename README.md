@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something in the future, but for know I'm just learning
 - 📫 How to reach me... You can send me an email to hagustaf@chalmers.se
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like banana on pizza
+- ⚡ Fun fact: I like bananas on pizza
 
 <!---
 gannahustafsson/gannahustafsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
